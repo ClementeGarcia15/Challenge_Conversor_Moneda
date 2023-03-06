@@ -8,8 +8,8 @@
 
 - [¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales](#¡Bienvenido-al-proyecto-Conversor-de-Moneda-con-Java!-Pasos-principales:)
 - [Descripcion](#descripcion-del-proyecto)
-- [Funcionalidad](#funcionalidad)
-- [Aplicacion](#aplicacion)
+- [Funcionalidad](#funcionalidades)
+- [Aplicacion](#aplicación)
 - [Herramientas utilizadas](#Herramientas)
 - [Acceso al proyecto](#Descarga-el-proyecto)
 - [Ejecutar proyecto](#Ejecutar-proyecto)
