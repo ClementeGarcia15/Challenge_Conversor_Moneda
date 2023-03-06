@@ -15,7 +15,7 @@
 - [Ejecutar proyecto](#Ejecutar-proyecto)
 - [Desarrollador](#Desarrollador)
 
-### ¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales
+## ¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales
 
 En este repositorio se mostrara el challenge Conversor de moneda y la explicación del funcionamiento del programa
 
@@ -23,7 +23,7 @@ En este repositorio se mostrara el challenge Conversor de moneda y la explicaci�
      <img width="500" heigth="300" src="https://user-images.githubusercontent.com/75176552/223257273-e7ffc18e-d183-4b99-ba55-3344ee644cb9.png">
 </p>
 
-### Descripcion
+## Descripcion
 
 <p align="justify">
 Proyecto Desarrollado para cumplir con el desafio.
