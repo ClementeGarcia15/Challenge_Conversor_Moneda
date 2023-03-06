@@ -6,16 +6,16 @@
 
 ### Indice
 
--[¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales:](#Bienvenida)
--[Descripcion](#descripcion-del-proyecto)
--[Funcionalidad](#funcion)
--[Aplicacion](#aplicacion)
--[Herramientas utilizadas](#Herramientas)
--[Acceso al proyecto](#Descarga-el-proyecto)
--[Ejecutar proyecto](#Ejecutar-proyecto)
--[Desarrollador](#Desarrollador)
+- [¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales](#¡Bienvenido-al-proyecto-Conversor-de-Moneda-con-Java!-Pasos-principales:)
+- [Descripcion](#descripcion-del-proyecto)
+- [Funcionalidad](#funcion)
+- [Aplicacion](#aplicacion)
+- [Herramientas utilizadas](#Herramientas)
+- [Acceso al proyecto](#Descarga-el-proyecto)
+- [Ejecutar proyecto](#Ejecutar-proyecto)
+- [Desarrollador](#Desarrollador)
 
-### ¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales:
+### ¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales
 
 En este repositorio se mostrara el challenge Conversor de moneda y la explicación del funcionamiento del programa
 
