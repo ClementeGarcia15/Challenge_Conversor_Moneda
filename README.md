@@ -28,7 +28,7 @@ En este repositorio se mostrara el challenge Conversor de moneda y la explicaci√
 <p align="justify">
 Proyecto Desarrollado para cumplir con el desafio.
 
-Este proyecto tiene como objetivo crear un conversor de monedas,se crea conversion de monedas, temperatura y distancias.
+Este proyecto tiene como objetivo crear un conversor de monedas, se crearon las conversiones de monedas, temperatura y distancias.
 
 <table>
   <tr>
