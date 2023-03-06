@@ -7,7 +7,7 @@
 ### Indice
 
 - [¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales](#¡Bienvenido-al-proyecto-Conversor-de-Moneda-con-Java!-Pasos-principales:)
-- [Descripcion](#descripcion-del-proyecto)
+- [Descripcion](#descripcion)
 - [Funcionalidad](#funcionalidades)
 - [Aplicacion](#aplicación)
 - [Herramientas utilizadas](#Herramientas)
