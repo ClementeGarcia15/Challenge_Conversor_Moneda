@@ -84,5 +84,5 @@ Si deseas descargar el proyecto da click [Aqui](https://github.com/ClementeGarci
 Una vez descargado el proyecto y descomprimido abre eclipse e importalo 
 
 ## Desarrollador
-[Clemente Garcia Linkedin](https://www.linkedin.com/in/clemente-garc%C3%ADa/?originalSubdomain=mx)
+Clemente Garcia <a href="https://www.linkedin.com/in/clemente-garc%C3%ADa/?originalSubdomain=mx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
