@@ -41,7 +41,7 @@ Este proyecto tiene como objetivo crear un conversor de monedas, se crearon las 
 
 ### Generales
 
-:heavy_check_mark: `Funcionalidad 1:` Escoger que tipo de conversion desea, de monedas, de temperatura o distancia
+:heavy_check_mark: `Funcionalidad 1:` Escoger que tipo de conversion desea, monedas, temperatura o distancia
 
 ### Funcionalidades de moneda
 
@@ -49,7 +49,7 @@ Este proyecto tiene como objetivo crear un conversor de monedas, se crearon las 
 
 :heavy_check_mark: `Funcionalidad 2:` Escoger a que tipo de moneda desea convertir
 
-:heavy_check_mark: `Funcionalidad 3:` Sacar la divisa y hacer la conversion a la moneda que se deseaba convertir
+:heavy_check_mark: `Funcionalidad 3:` Sacar la divisa consultando la api y hacer la conversion a la moneda que se deseaba convertir
 
 ### Funcionalidades de temperatura
 
