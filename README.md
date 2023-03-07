@@ -6,13 +6,13 @@
 
 ### Indice
 
-- [¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales](#¡Bienvenido-al-proyecto-Conversor-de-Moneda-con-Java!-Pasos-principales:)
+- [Bienvenida](#bienvenido-al-proyecto-conversor-de-moneda-con-java-pasos-principales)
 - [Descripcion](#descripcion)
 - [Funcionalidad](#funcionalidades)
 - [Aplicacion](#aplicación)
-- [Herramientas utilizadas](#Herramientas)
-- [Acceso al proyecto](#Descarga-el-proyecto)
-- [Ejecutar proyecto](#Ejecutar-proyecto)
+- [Herramientas utilizadas](#herramientas)
+- [Acceso al proyecto](#descarga-el-proyecto)
+- [Ejecutar proyecto](#ejecutar-proyecto)
 - [Desarrollador](#Desarrollador)
 
 ## ¡Bienvenido al proyecto Conversor de Moneda con Java! Pasos principales
@@ -69,4 +69,20 @@ Este proyecto tiene como objetivo crear un conversor de monedas, se crearon las 
 
 ## Aplicación
 
+Aqui se muestra el funcionamiento del conversor
+
+## Herramientas
+Esta son las herramientas que utilice:
+
+[Eclipse standard](https://www.eclipse.org/downloads/), [Java](https://www.java.com/en/download/) apartir de la 1.8 a la actual. Se utilizo swing libreria grafica que ya viene integrada con java, JSON este se utiliza para la api de conversion moneda [Api moneda ExchangerRate](https://www.exchangerate-api.com/)
+
+## Descarga el proyecto
+Si deseas descargar el proyecto da click [Aqui](https://github.com/ClementeGarcia15/Challenge_Conversor_Moneda/archive/refs/heads/main.zip) o si deseas ver el proyecto click [Aqui](https://github.com/ClementeGarcia15/Challenge_Conversor_Moneda)
+
+## Ejecutar proyecto
+
+Una vez descargado el proyecto y descomprimido abre eclipse e importalo 
+
+## Desarrollador
+[Clemente Garcia Linkedin](https://www.linkedin.com/in/clemente-garc%C3%ADa/?originalSubdomain=mx)
 
