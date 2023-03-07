@@ -72,7 +72,7 @@ Este proyecto tiene como objetivo crear un conversor de monedas, se crearon las 
 Aqui se muestra el funcionamiento del conversor
 
 <p align="center" >
-     <img width="500" heigth="300" src="https://user-images.githubusercontent.com/75176552/223547902-4d756420-b8f2-4219-a33c-5bef6845c788.gif">
+     <img width="500" heigth="300" src="https://user-images.githubusercontent.com/75176552/223549643-2f714ca5-b86a-40ac-bd02-cce0194e58a0.mp4">
 </p>
 
 ## Herramientas
